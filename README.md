@@ -1,10 +1,10 @@
 [![Welcome to Amal-dx Repo](https://readme-typing-svg.herokuapp.com?color=%231ABDF7&lines=WELCOME+TO+AMAL-DX+REPO)](https://git.io/typing-svg)
 ## 📢Introduce myself
 
-- 🙂I'm Amal
+- 🙂I'm Krishnadas
 - 🚩I'm a beginner in this field
-- 📍From pathripala,palakkad,Kerala,🇮🇳
-- 🏫Students
+- 📍From kunnamkulam,Thrissur,Kerala,🇮🇳
+- 🏫Student
 
 <div align="center">
   <img src=http://telegra.ph/file/68809ff84d7cd4447a76e.jpg>
