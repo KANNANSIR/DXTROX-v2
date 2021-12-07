@@ -1,4 +1,4 @@
-[![Welcome to KRIZ-SER Repo](https://readme-typing-svg.herokuapp.com?color=%231ABDF7&lines=WELCOME+TO+KRIZ-SER+REPO)](https://git.io/typing-svg)
+[![Welcome to KRIZ-SERV2 Repo](https://readme-typing-svg.herokuapp.com?color=%231ABDF7&lines=WELCOME+TO+KRIZ-SERV2+REPO)](https://git.io/typing-svg)
 ## 📢Introduce myself
 
 - 🙂I'm Krishnadas
@@ -7,7 +7,7 @@
 - 🏫Student
 
 <div align="center">
-  <img src=http://telegra.ph/file/68809ff84d7cd4447a76e.jpg>
+  <img src=https://telegra.ph/file/1d353bcfcc7ae5f83e088.jpg>
  
 
 
