@@ -1,4 +1,4 @@
-[![Welcome to Amal-dx Repo](https://readme-typing-svg.herokuapp.com?color=%231ABDF7&lines=WELCOME+TO+AMAL-DX+REPO)](https://git.io/typing-svg)
+[![Welcome to KRIZ-SER Repo](https://readme-typing-svg.herokuapp.com?color=%231ABDF7&lines=WELCOME+TO+KRIZ-SER+REPO)](https://git.io/typing-svg)
 ## 📢Introduce myself
 
 - 🙂I'm Krishnadas
@@ -11,12 +11,12 @@
  
 
 
-# **DXTROX-V2 whatsapp bot**
+# **KRIZSERV2 whatsapp bot**
 
 ##  [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
-  Click 👇 here to join our whatsapp group
-[![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/ByLfu3PoWJA7YavsaTi7wx)
+ 
+
   <div align="center">
 
 
@@ -49,14 +49,14 @@
  
  
  ##  Developer
- 👤  **Amal-dx**
-* WhatsApp : https://wa.me/917736308760
+ 👤  **krishnadas**
+* WhatsApp : https://wa.me/919633687665
 
 
 
 ## 📝 License 
 
-+ This project is [MIT License v3.0](https://github.com/amal-dx/DXTROX-v2/blob/main/LICENSE) licensed. 
++ This project is [MIT License v3.0](https://github.com/KANNANSIR/KRIZSERV2/blob/main/LICENSE) licensed. 
 
 
 
