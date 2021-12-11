@@ -1,1 +1,3 @@
-web: node . --scan
+web: node . --server
+worker : npm start
+
